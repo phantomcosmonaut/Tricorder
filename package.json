@@ -24,8 +24,7 @@
   },
   "scripts": {
     "devServer": "nodemon ./dist/server/main.js",
-    "bundle": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bundle": "webpack"
   },
   "author": "Brennan Bugbee",
   "license": "ISC"
