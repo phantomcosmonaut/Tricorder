@@ -1,10 +1,10 @@
 # Tricorder - TS
 ## A back-end template package for Phaser.js and other html game frameworks
----
-**Make real-time multiplayer games and store player information in a database**
+
+### **Make real-time multiplayer games and store player information in a database**
 ![browser](docs/tricorder-demonstration-browser.gif)
 
-**Use simple node commands to make development smooth and painless**
+### **Use simple node commands to make development smooth and painless**
 ![server](docs/tricorder-demonstration-npm-commands.gif)
 
 To get started, make sure node.js is installed and clone the repo. Then install the dependencies with `npm install`.
