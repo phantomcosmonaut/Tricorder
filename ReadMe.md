@@ -1,5 +1,5 @@
 # Tricorder - TS
-## A back-end template package for Phaser.js and other html game frameworks
+A back-end template package for Phaser.js and other html game frameworks
 
 ### **Make real-time multiplayer games and store player information in a database**
 ![browser](docs/tricorder-demonstration-browser.gif)
@@ -18,9 +18,9 @@ There are two commands:
 - `npm run devServer`
 : Runs the development server on localhost and automatically restarts the server when file changes are detected. It also initializes a connection to a sqlite database configured with 'ormconfig.json'.
 - `npm run bundle`
-: Runs webpack to create a bundled Javascript file that is client on request and automatically re-bundles when file changes are detected.
+: Runs webpack to create a browser-ready Javascript file and automatically re-bundles when file changes are detected.
 
 Later updates may include:
+- Added functionality
 - Production-ready environment
 - Better documentation
-- Dependency injection
