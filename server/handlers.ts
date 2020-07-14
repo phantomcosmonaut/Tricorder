@@ -3,7 +3,6 @@ import path from 'path';
 import { Request, Response, Express } from 'express';
 
 //These methods discover and serve static files to the http client with the Express module
-
 //Set root directory for static files
 let staticDir = path.dirname(__dirname) + "/static/";
 
